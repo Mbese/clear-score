@@ -4,11 +4,14 @@ import android.animation.ValueAnimator
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.get
 import androidx.lifecycle.Observer
 import com.example.clearscore.R
 import com.example.clearscore.databinding.ActivityMainBinding
 import com.example.clearscore.viewmodel.CreditReportViewModel
+import com.google.android.material.snackbar.Snackbar
 import org.koin.android.ext.android.inject
+
 
 class MainActivity : AppCompatActivity() {
     private var binding: ActivityMainBinding? = null
@@ -23,17 +26,24 @@ class MainActivity : AppCompatActivity() {
 
         binding?.retryButton?.setOnClickListener {
             fetchCreditRecord()
+            binding?.errorView?.visibility = View.GONE
         }
     }
 
-    private fun fetchCreditRecord(){
-        viewModel.creditReport.observe(this, Observer {
-            if (it == null ){
-                binding?.progressBar?.visibility = View.GONE
-                binding?.text?.visibility = View.GONE
+    private fun fetchCreditRecord() {
+        viewModel.creditReport.observe(this, Observer { creditReport ->
+            if (creditReport == null) {
+                binding?.content?.let {
+                    Snackbar.make(
+                        it,
+                        R.string.unable_to_fetch_your_credit_score,
+                        Snackbar.LENGTH_LONG
+                    )
+                        .show()
+                }
                 binding?.errorView?.visibility = View.VISIBLE
             } else {
-                val creditScoreInfo = it.creditReportInfo
+                val creditScoreInfo = creditReport.creditReportInfo
                 binding?.progressBar?.max = creditScoreInfo.maxScoreValue
                 binding?.maxScoreText?.text = String.format(
                     resources.getString(
