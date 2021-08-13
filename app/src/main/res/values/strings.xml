@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clear Score</string>
+    <string name="your_credit_score_is">Your credit score is</string>
+    <string name="max_score">out of %1s</string>
+    <string name="unable_to_fetch_your_credit_score">Something went wrong while fetching your credit score.</string>
+    <string name="retry_fetching_credit_score">Retry fetching credit score</string>
+    <string name="retry">Retry</string>
+</resources>

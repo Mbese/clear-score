@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/api/ApiClient.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/database/AppDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/database/AppDatabse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/dependencyinjection/App.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/dependencyinjection/Modules.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/model/CoachingSummary.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/model/Converters.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/model/CreditReport.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/model/CreditReportDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/model/CreditReportInfo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/repo/CreditReportRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/service/CreditReportService.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/view/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/clearscore/viewmodel/CreditReportViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/circular_drawable.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/test.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/example/clearscore/api/ApiClientTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/example/clearscore/repo/CreditReportRepositoryTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/test/java/com/example/clearscore/viewmodel/CreditReportViewModelTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../citiessdk/app/src/main/java/com/example/citiessdk/cities/view/CitiesFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../citiessdk/app/src/main/java/com/example/citiessdk/cities/viewmodel/CitiesViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../citiessdk/app/src/main/java/com/example/citiessdk/dependencyinjection/App.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mobile-framework/mobile-framework-android/src/main/java/com/sbg/mobileframework/tile/repo/TileRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mobile-framework/mobile-framework-android/src/main/res/layout/base_tile_container.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/AccountCarouselProductDataFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/CreditAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/CurrentAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/ErrorAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/FixedTermAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/HomeLoanAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/NoticeAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/RcpAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/SavingsAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/TermLoanAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/TileErrorAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/UnknownAccountCarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/plugins/product/data/VafAccountCarouselProductDataFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/repo/accounts/AccountRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/repo/accounts/AccountsResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/main/java/com/sbg/mobile/android/aims/repo/accounts/AppDatabase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/test/java/com/sbg/mobile/android/aims/repo/accounts/AccountRepositoryInteractorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/test/java/com/sbg/mobile/android/aims/repo/accounts/AccountRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/test/java/com/sbg/mobile/android/aims/repo/accounts/AccountsCacheTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/test/java/com/sbg/mobile/android/aims/repo/accounts/AccountsResponseCompositeCacheTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/test/java/com/sbg/mobile/android/aims/repo/accounts/CardProfileCacheTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-aims/sbg-android-aims-module/src/test/java/com/sbg/mobile/android/aims/repo/accounts/CardProfileRepositoryInteractorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-home-api/src/main/java/com/sbg/mobile/android/home/api/carousel/CarouselProductData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-home/sbg-android-home-module/src/main/java/com/sbg/mobile/android/home/carousel/view/ProductViewHolder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-home/sbg-android-home-module/src/main/java/com/sbg/mobile/android/home/plugins/carousel/OpenNewAccountCarouselPlugin.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-android-home/sbg-android-home-module/src/main/res/layout/carousel_product_content.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-mobile-common/sbg-mobile-common-android/src/main/java/com/sbg/mobile/common/android/widget/accountselector/AccountSelectorView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-mobile-common/sbg-mobile-common-android/src/main/java/com/sbg/mobile/common/android/widget/accountselector/AccountSelectorWidget.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-mobile-common/sbg-mobile-common-android/src/main/java/com/sbg/mobile/common/android/widget/accountselector/list/AccountSelectorListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-mobile-common/sbg-mobile-common-android/src/main/java/com/sbg/mobile/common/android/widget/accountselector/list/AccountSelectorListFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-mobile-common/sbg-mobile-common-android/src/main/java/com/sbg/mobile/common/android/widget/accountselector/list/AccountSelectorListView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sbg-mobile-phone/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
