@@ -64,12 +64,6 @@ dependencies {
     implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
     implementation 'com.squareup.okhttp3:logging-interceptor:4.9.1'
 
-    //Room components
-    def room_version = '2.4.0-alpha04'
-    implementation "androidx.room:room-runtime:$room_version"
-    implementation "androidx.room:room-ktx:$room_version"
-    kapt "androidx.room:room-compiler:$room_version"
-
     //dependency injection
     def koin_version = "2.0.1"
     implementation "org.koin:koin-android:$koin_version"
